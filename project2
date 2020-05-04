@@ -4,31 +4,16 @@
     <meta charset="UTF-8">
     <title>title</title>
 </head>
-<br>
-<br>
-<br>
-
+<div style="margin-top: 20px"></div>
 <h6 align="center">MAUREEN ZEHRING</h6>
 <body>
 <H1 align="center">How to wrait headlines<br>
     that actually whork?</h1><br>
-<br>
-<br>
-<br>
+<div style="margin-top: 100px"></div>
 <p align="center">A headline's perpose is to quickly and briefly draw attention to the story.It is<br>
     generally written by a copy editor, but may also be written by the writter, the page<br>
     layout designer, or other editors.</p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<div style="margin-top: 79px"></div>
 <table align="center">
     <tr>
         <td>Smoke is a collection of airbome solid<br>
@@ -48,16 +33,6 @@
         <td><img src="img12.png" alt="190%"></td>
     </tr>
 </table>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <table>
         <tr><td align="center"><img src="img1.png"></td>
         </tr>
@@ -72,7 +47,6 @@
             be used either independently or as an<br>
             adjunctto the other methods.</td>
         </table>
-
 <table align="center">
         <tr><td align="center"><img src="img2.png"></td>
         </tr>
@@ -86,10 +60,7 @@
             words theat are related with the image, etc.are the<br>
             symbolization of the image.</td>
         </tr>
-
-    </table>
-
-
+ </table>
 <table align="right">
         <tr><td align="center"><img src="img3.png"></td>
         </tr>
@@ -104,14 +75,9 @@
             individual makesthe critics.</td>
         </tr>
     </table>
-
-    </tr>
+</tr>
 </table>
-
 </table>
-
-
-
 <div id="container">
     <div id="sidebar">
         <p><img src="img1.png"></p>
@@ -125,7 +91,5 @@
             adjunctto the other methods.</p>
     </div>
 </div>
-
-
 </body>
 </html>
