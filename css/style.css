@@ -1,9 +1,13 @@
 .container {
-    margin-left: 30%;
-    width:200px;
+    display: inline-block;
+    display: -moz-inline-stack;
+    width:500px;
+    margin: 0 -10px;
 }
 .body-bg {
-    align: auto
+    margin-left: auto;
+    margin-right: auto;
+
 }
 .textimg {
     position: center;
@@ -11,7 +15,9 @@
     text-align: center;
 }
 .footer-bg {
-    margin-left: 120px;
+    margin-left: 100px;
+    display: inline-block;
+    display: -moz-inline-stack;
     top: 150px;
     padding: 10px 0;
 }
@@ -19,21 +25,26 @@
     text-align: center;
     padding: 10px;
 }
-table{
-    width: 80%;
-}
 
-#col1 {
+.col1 {
+    flex: 1 1 auto;
+    margin: 0 10px;
+    padding: 10px;
     border: 2px solid black;
-width: 100px;
+width: 200px;
+    float: left;
 }
-#col2{
+.col2{
+    flex: 1 1 auto;
+    margin: 0 10px;
+    float: right;
     border: 2px solid black;
-width: 100px;
+width: 200px;
 }
-#col3{
+.col3{
+    float: right;
     border: 2px solid black;
-    width:100px;
+    width:200px;
 }
 .text-center{
 
@@ -63,4 +74,13 @@ width: 100px;
 }
 .text4{
     text-align: center;
+}
+.im1{
+display: inline-block;
+
+}
+.block1{
+    display: flex;
+    flex-direction: column;
+    padding: 0 100px;
 }
