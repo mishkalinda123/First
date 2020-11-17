@@ -1,3 +1,9 @@
+body{
+    font-family: Arial;
+}
+.form-group{
+    margin-top: -20px;
+}
 .form-page{
 
     max-width: 1000px;
@@ -9,11 +15,12 @@
 }
 .form1{
     margin-left: 50px;
-
-   padding-top: 20px;
+    padding-top: 20px;
+    font-weight: 700;
 }
 .form2{
-    margin-left: 26px;
+    font-weight: 700;
+    margin-left: 15px;
     padding-top: 11px;
 
 }
@@ -28,7 +35,7 @@ h1{
     margin-left: 330px;
 }
 .text{
-    margin-right: -45px;
+    margin-right: -55px;
 
 }
 .button{
