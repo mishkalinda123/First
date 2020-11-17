@@ -14,7 +14,7 @@
 }
 .form2{
     margin-left: 26px;
-    padding-top: 10px;
+    padding-top: 11px;
 
 }
 h1{
@@ -22,15 +22,26 @@ h1{
 
 }
 .check{
-    margin-top: 15px;
+    float: left;
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 330px;
+}
+.text{
+    margin-right: -45px;
 
 }
 .button{
+    margin-left: 40px;
     background-color: rgba(0, 4, 255, 0.29);
     margin-top: 15px;
+    cursor: pointer;
+
+
 }
 .input3{
-margin-right: 15px;
+    margin-top: 15px;
+margin-right: 60px;
 }
 input{
     width: 200px;
